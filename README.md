@@ -1,5 +1,5 @@
 # kitchentimer
-This is the "kitchentimer" sketch, written for ESP32 and Arduino-IDE. It works with Adafruit LED 7-segment backpacks with I2C interface and was tested with ESP32-ST and the wiring for a vroom eboxmaker himalaya board.
+This is the "kitchentimer" sketch, written for ESP32 and Arduino-IDE. It works with Adafruit LED 7-segment backpacks with I2C interface and was tested with ESP32-ST and the wiring for a wroom eboxmaker himalaya board.
 
 You are in need of the "Adafruit LEDBackpack" and "Adafruit GFX"-Libraries. "Wire.h" and "WiFi.h" have to be included.
 
