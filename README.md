@@ -1,4 +1,4 @@
-# kitchentimer
+# kitchen timer
 This is the "kitchentimer" sketch, written for ESP32 and Arduino-IDE. It works with Adafruit LED 7-segment backpacks with I2C interface and was tested with ESP32-ST and the wiring for a wroom eboxmaker himalaya board.
 
 Like the well-known devices, the timer should serve as a kitchen clock to have the cooking times under control.
