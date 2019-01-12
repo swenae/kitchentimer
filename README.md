@@ -7,7 +7,7 @@ You are in need of the "Adafruit LEDBackpack" and "Adafruit GFX"-Libraries. "Wir
 
 Just install the Libraries and load up the sketch to a ESP32-WiFi-Kit compatible board. For the right functionality, additional hardware is required. 
 
-The ESP interacts with display (I2C interface), taster and buzzer and provide a little HTTP server. So we are able to control the kitchen timer over web.
+The ESP interacts with display (I2C interface), switch and buzzer, and provide a little HTTP server. So we are able to control the kitchen timer over web.
 
 Have fun!
  
